@@ -1,6 +1,6 @@
 # Best practice for computational projects
 
-See [this project](https://github.com/Elliot-D-Hill/pytorch-template.git) for an example that attempts to follow the practices laid out in this document.
+See [this project](https://github.com/duke-aihealth-ds-fellowship/pytorch-template) for an example that attempts to follow the practices laid out in this document.
 
 ## Why do we adopt best practices, standards and conventions?
 
